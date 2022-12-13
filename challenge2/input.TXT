@@ -1,0 +1,9 @@
+1.Open the url- https://cloud.google.com/compute/docs/reference/rest/v1/instances/get
+2.Create a test compute engine in GCP with any configuration
+3. Create a API key in GCP from credentials service for Authentication to compute engine API's from any outside source
+4. Enter the Project id, Instance id, Zone, access token, according to the GCP environament format as shown below
+Project id: marine-lacing-371009
+Zone: asia-south1-c
+Instance id: 8019494863034387406
+access token: AIzaSyDYG6s7L8o_oyp96QtHyPOAPDeDz1jn5Uo
+5. Click on execute button and the output will be generated in JSON format as shown in  output.json file
